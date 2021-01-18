@@ -6,3 +6,6 @@
 * Paste your clip URL
 * Select your outro duration in seconds
 * Your final file is ready in a few seconds !
+
+
+get updates on https://github.com/painteau/AutoOutro
